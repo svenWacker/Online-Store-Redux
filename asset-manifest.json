@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Online-Store-Redux/static/css/main.460a34ff.chunk.css",
+    "main.js": "/Online-Store-Redux/static/js/main.2a3d1b5c.chunk.js",
+    "main.js.map": "/Online-Store-Redux/static/js/main.2a3d1b5c.chunk.js.map",
+    "runtime-main.js": "/Online-Store-Redux/static/js/runtime-main.d153e4f0.js",
+    "runtime-main.js.map": "/Online-Store-Redux/static/js/runtime-main.d153e4f0.js.map",
+    "static/js/2.43aed9e2.chunk.js": "/Online-Store-Redux/static/js/2.43aed9e2.chunk.js",
+    "static/js/2.43aed9e2.chunk.js.map": "/Online-Store-Redux/static/js/2.43aed9e2.chunk.js.map",
+    "index.html": "/Online-Store-Redux/index.html",
+    "static/css/main.460a34ff.chunk.css.map": "/Online-Store-Redux/static/css/main.460a34ff.chunk.css.map",
+    "static/js/2.43aed9e2.chunk.js.LICENSE.txt": "/Online-Store-Redux/static/js/2.43aed9e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d153e4f0.js",
+    "static/js/2.43aed9e2.chunk.js",
+    "static/css/main.460a34ff.chunk.css",
+    "static/js/main.2a3d1b5c.chunk.js"
+  ]
+}
